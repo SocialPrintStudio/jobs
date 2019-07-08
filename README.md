@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Social Print Studio Engineer
 
-You can use the [editor on GitHub](https://github.com/SocialPrintStudio/jobs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here at SPS we aren't just building products that people love on one of the most promoted apps on the AppStore, we are allowing people to bring their memeories out of social media, and into their homes and hearts.....
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What we are looking for
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is the things we are looking for ....
 
 ```markdown
 Syntax highlighted code block
@@ -15,11 +13,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- React
+- CSS, HTML ....
 
 **Bold** and _Italic_ and `Code` text
 
